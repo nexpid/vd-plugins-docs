@@ -15,8 +15,6 @@ layout:
 
 # Self destruct plugin
 
-
-
 {% tabs %}
 {% tab title="manifest.json" %}
 ```json
