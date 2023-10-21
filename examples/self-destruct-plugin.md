@@ -15,6 +15,8 @@ layout:
 
 # Self destruct plugin
 
+[**Source**](https://github.com/nexpid/example-plugins/tree/master/plugins/SelfDestruct)
+
 {% tabs %}
 {% tab title="manifest.json" %}
 ```json
