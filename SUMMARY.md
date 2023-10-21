@@ -9,3 +9,7 @@
 
 * [📃 Setting up](guides/setting-up.md)
 * [〽 Local plugin development](guides/local-plugin-development.md)
+
+## 🔰 Examples
+
+* [Self destruct plugin](examples/self-destruct-plugin.md)

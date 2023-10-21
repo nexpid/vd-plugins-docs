@@ -20,7 +20,7 @@ layout:
 * 💻 [Sublime Text](https://www.sublimetext.com/)
 * 🌐 [vscode.dev](https://vscode.dev/)
 
-### 🔧 Vendetta Debugger
+### 🧭 Vendetta Debugger
 
 * 💻:crown: [vdebug](https://github.com/aeongdesu/vdebug)
 * 💻 [vendetta-debug](https://github.com/Meqativ/vendetta-debug)
@@ -28,4 +28,3 @@ layout:
 ### 🌂 Other
 
 * 💻 [react-devtools](https://www.npmjs.com/package/react-devtools)
-
