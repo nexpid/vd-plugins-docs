@@ -12,7 +12,7 @@
 * [📃 Setting up](guides/setting-up.md)
 * [〽 Local plugin development](guides/local-plugin-development.md)
 * [📜 Manifest](guides/manifest.md)
-* [👂 Plugin Entrypoint](guides/plugin-entrypoint.md)
+* [👂 Plugin entrypoint](guides/plugin-entrypoint.md)
 
 ## 🔰 Examples
 
