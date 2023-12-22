@@ -7,6 +7,8 @@ description: >-
 
 # ‼ HELP MAKE THESE DOCS
 
+* [x] Plugin manifest
+* [ ] Plugin entrypoint
 * [ ] Patching
 * [ ] FluxDispatcher
 * [ ] Modals
