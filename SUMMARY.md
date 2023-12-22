@@ -1,8 +1,10 @@
 # Table of contents
 
+* [‼ HELP MAKE THESE DOCS](README.md)
+
 ## ℹ Meta
 
-* [🔰 Getting started](README.md)
+* [🔰 Getting started](<README (1).md>)
 * [🛠 Tools](meta/tools.md)
 
 ## 📚 Guides

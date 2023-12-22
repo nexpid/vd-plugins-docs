@@ -1,19 +1,17 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+description: >-
+  Making Vendetta plugins isn't exactly easy and requires knowing a lot of stuff
+  about how Vendetta, Discord, React Native and React works. Here's some topics
+  I plan to cover on these docs:
 ---
 
-# 🔰 Getting started
+# ‼ HELP MAKE THESE DOCS
 
-Welcome to the unofficial documentation for Vendetta plugins.
-
-yeahh
+* [ ] Patching
+* [ ] FluxDispatcher
+* [ ] Modals
+* [ ] Action Sheets
+* [ ] Alerts
+* [ ] Stylesheets
+* [ ] Common components
+* [ ] Redesign components
