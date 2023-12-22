@@ -41,7 +41,7 @@ Then, open two terminal windows and run:
 {% tab title="Terminal 1" %}
 Pick the IP address that starts with `192.168...`
 
-{% code fullWidth="true" %}
+{% code overflow="wrap" fullWidth="true" %}
 ```bash
 > http-server dist --port XXXX
 
@@ -60,11 +60,13 @@ Available on:
 {% tab title="Terminal 2" %}
 This command should be ran every time you make a change to one of your plugins:
 
+{% code overflow="wrap" fullWidth="false" %}
 ```bash
 > pnpm build
 
 Successfully built Template Plugin!
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 

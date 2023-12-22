@@ -5,10 +5,10 @@ description: >-
   I plan to cover on these docs:
 ---
 
-# ‼ HELP MAKE THESE DOCS
+# ⏰ Progress
 
 * [x] Plugin manifest
-* [ ] Plugin entrypoint
+* [x] Plugin entrypoint
 * [ ] Patching
 * [ ] FluxDispatcher
 * [ ] Modals

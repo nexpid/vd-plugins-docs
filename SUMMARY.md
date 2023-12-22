@@ -1,6 +1,6 @@
 # Table of contents
 
-* [‼ HELP MAKE THESE DOCS](README.md)
+* [⏰ Progress](README.md)
 
 ## ℹ Meta
 
