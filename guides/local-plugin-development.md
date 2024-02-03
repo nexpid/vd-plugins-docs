@@ -29,7 +29,13 @@ cd GITHUB_REPO
 ```
 {% endcode %}
 
-Install the `http-server` package:
+Then, install packages:
+
+```bash
+pnpm i
+```
+
+Install the `http-server` package globally:
 
 ```bash
 npm i http-server -g
