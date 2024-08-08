@@ -15,5 +15,3 @@ layout:
 # 🔰 Getting started
 
 Welcome to the unofficial documentation for Vendetta plugins.
-
-yeahh
